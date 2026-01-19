@@ -1,0 +1,1 @@
+# react-docker-static-app
